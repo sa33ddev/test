@@ -1,0 +1,4 @@
+key_name   = "key-white-device.json"
+project_id = "white-device-186013"
+region     = "europe-north1"
+zone       = "europe-north1-a"
